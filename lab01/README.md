@@ -15,7 +15,7 @@ Estrutura de pastas:
 
 ## Tarefa 1 sobre APIs de acesso
 
-https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab01/lab01-api.ipynb
+https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab01/notebook/lab01-api.ipynb
 
 ## Tarefa 2 sobre Engenharia Reversa
 > Coloque a imagem do PNG do seu diagrama como ilustrado abaixo (a imagem estará na pasta `image`):
