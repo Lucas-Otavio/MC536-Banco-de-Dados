@@ -1,4 +1,4 @@
-# Modelo para Apresentação do Lab01 - API Acesso
+# Apresentação do Lab01 - API Acesso
 
 Estrutura de pastas:
 
