@@ -5,4 +5,4 @@ Repositório de Lucas Otávio Nascimento de Araújo RA 240106 destinado às ativ
 `Lucas Otávio Nascimento de Araújo 240106`
 
 # Laboratórios
-[Laboratório 1](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/edit/main/README.md)
+* [Laboratório 1](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/edit/main/README.md)
