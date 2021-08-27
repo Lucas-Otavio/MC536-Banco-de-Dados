@@ -2,6 +2,7 @@
 
 # Aluno
 * `Lucas Otávio Nascimento de Araújo`
+* `240106`
 
 ## Tarefa 1 sobre APIs de acesso
 
