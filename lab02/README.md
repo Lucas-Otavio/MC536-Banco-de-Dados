@@ -5,4 +5,4 @@
 
 ## Tarefa sobre Acesso a DBPedia, MeSH e OpenStreetMap
 
-[Notebook lab 02](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab02/notebook/lab02-logic-model-dbpedia.ipynb)
+[Notebook lab 02](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/blob/main/lab02/notebook/lab2-logic-model-dbpedia.ipynb)
