@@ -32,4 +32,4 @@ Records drugs used by participants in the survey and how many days they are cont
 |-------|-------------|--------|
 | `person_id` | id of a participant in the survey | number |
 | `drug_code` | code of a drug in the catalog | string |
-| `days_use` | number of days of use |
+| `days_use` | number of days of use | integer |
