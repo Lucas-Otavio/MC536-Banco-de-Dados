@@ -5,6 +5,8 @@ Repositório de Lucas Otávio Nascimento de Araújo RA 240106 destinado às ativ
 `Lucas Otávio Nascimento de Araújo 240106`
 
 # Laboratórios
-* [Laboratório 1 - API Acesso](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab01)
-* [Laboratório 2 - Modelos Lógicos por meio de API de Acesso](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab02)
-* [Laboratório 3 - SQL no NHANES](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab03)
+* [Laboratório 01 - API Acesso](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab01)
+* [Laboratório 02 - Modelos Lógicos por meio de API de Acesso](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab02)
+* [Laboratório 03 - SQL no NHANES](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab03)
+* [Laboratório 04 - SQL Avançado (NHANES e Taxonomia)](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab04)
+* [Laboratório 05 - Marcadores e Taxonomia em Cypher](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab05)
