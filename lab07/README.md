@@ -18,3 +18,4 @@ Além disso, um Tipo de Diagnóstico possui referências para os Tipos de Sintom
 * Qual o impacto da sazonalidade na incidência de casos de doenças respiratórias?
 * Quais são os fatores do tempo atmosférico que afetam os casos de doenças respiratórias?
 * É possível antecipar flutuações no número de casos de doenças respiratórias a partir da previsão do tempo?
+* Alterações do tempo atmosférico influenciam no conjunto de sintomas mais comuns de algumas doenças respiratórias?
