@@ -9,7 +9,7 @@
 
 A imagem inclui uma versão preliminar de todo o Modelo Lógico. As entidades expressas por círculos correspondem às que seriam representadas por grafos.
 
-Estado teria como propriedades seu nome e sigla; cidade, seu nome e estado em que se localiza; estação climática, sua cidade e seus respectivos estados climáticos (que representa o conjunto de dados de temperatura, umidade, vento, qualidade do ar e afins).
+Estado teria como propriedades seu nome e sigla; Cidade, seu nome e estado em que se localiza; Estação Metereológica, sua cidade e seus respectivos Estados Climáticos (que representa o conjunto de dados de temperatura, umidade, vento, qualidade do ar e afins).
 
 Além disso, um Tipo de Diagnóstico possui referências para os Tipos de Sintomas que podem o caracterizar.
 
