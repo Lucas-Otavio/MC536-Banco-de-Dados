@@ -11,3 +11,4 @@ Repositório de Lucas Otávio Nascimento de Araújo RA 240106 destinado às ativ
 * [Laboratório 04 - SQL Avançado (NHANES e Taxonomia)](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab04)
 * [Laboratório 05 - Marcadores e Taxonomia em Cypher](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab05)
 * [Laboratório 06 - Artigo de Dataset Público](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab06)
+* [Laboratório 07 - Modelo Lógico para Banco de Dados de Grafos](https://github.com/Lucas-Otavio/MC536-Banco-de-Dados/tree/main/lab07)
